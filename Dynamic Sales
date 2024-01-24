@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Muhammed's Website</title>
+    <title>Dynamicsales Agency Website</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -24,7 +24,7 @@
     </div>
     <nav class="navbar">
         <div class="max-width">
-            <div class="logo"><a href="#">Dynamic<span>Sales.</span></a></div>
+            <div class="logo"><a href="#">Dynamicsales<span>Agency.</span></a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
                 <li><a href="#about" class="menu-btn">About</a></li>
@@ -382,6 +382,14 @@
                         <img src="images/profile-1.jpg" alt="">
                         <div class="text">Mr. Muhammad Suleiman</div>
                         <p>C.E.O</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="box">
+                        <img src="images/ray.jpg" alt="">
+                        <div class="text">RAYDMS Shopify Expert</div>
+                        <p>Programmer & Digital Marketer</p>
                     </div>
                 </div>
 
